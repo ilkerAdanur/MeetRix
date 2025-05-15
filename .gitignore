@@ -1,0 +1,9 @@
+output.txt 
+node_modules 
+gen-lang-client-0614017333-dad6ceb35a11.json
+dist 
+.mastra 
+.env.development 
+.env 
+*.db 
+*.db-* 
